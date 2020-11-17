@@ -1,1 +1,3 @@
 # merge-conflict
+
+Developer B
